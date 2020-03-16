@@ -1,0 +1,1 @@
+* link:exercises/structs/structs1.rs[exercises/structs/structs1.rs]
